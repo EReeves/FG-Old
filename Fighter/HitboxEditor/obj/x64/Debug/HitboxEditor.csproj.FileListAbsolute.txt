@@ -1,0 +1,8 @@
+C:\Users\reeve_000\Desktop\Projects\Fighter\fightingengine\Fighter\HitboxEditor\bin\x64\Debug\HitboxEditor.exe.config
+C:\Users\reeve_000\Desktop\Projects\Fighter\fightingengine\Fighter\HitboxEditor\bin\x64\Debug\HitboxEditor.exe
+C:\Users\reeve_000\Desktop\Projects\Fighter\fightingengine\Fighter\HitboxEditor\bin\x64\Debug\HitboxEditor.pdb
+C:\Users\reeve_000\Desktop\Projects\Fighter\fightingengine\Fighter\HitboxEditor\bin\x64\Debug\sfmlnet-audio-2.dll
+C:\Users\reeve_000\Desktop\Projects\Fighter\fightingengine\Fighter\HitboxEditor\bin\x64\Debug\sfmlnet-graphics-2.dll
+C:\Users\reeve_000\Desktop\Projects\Fighter\fightingengine\Fighter\HitboxEditor\bin\x64\Debug\sfmlnet-window-2.dll
+C:\Users\reeve_000\Desktop\Projects\Fighter\fightingengine\Fighter\HitboxEditor\obj\x64\Debug\HitboxEditor.exe
+C:\Users\reeve_000\Desktop\Projects\Fighter\fightingengine\Fighter\HitboxEditor\obj\x64\Debug\HitboxEditor.pdb

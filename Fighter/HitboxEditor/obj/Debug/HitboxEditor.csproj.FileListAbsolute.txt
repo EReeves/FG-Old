@@ -1,0 +1,9 @@
+C:\Users\reeve_000\Desktop\Projects\Fighter\fightingengine\Fighter\HitboxEditor\bin\Debug\HitboxEditor.exe.config
+C:\Users\reeve_000\Desktop\Projects\Fighter\fightingengine\Fighter\HitboxEditor\bin\Debug\HitboxEditor.exe
+C:\Users\reeve_000\Desktop\Projects\Fighter\fightingengine\Fighter\HitboxEditor\bin\Debug\HitboxEditor.pdb
+C:\Users\reeve_000\Desktop\Projects\Fighter\fightingengine\Fighter\HitboxEditor\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\reeve_000\Desktop\Projects\Fighter\fightingengine\Fighter\HitboxEditor\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\reeve_000\Desktop\Projects\Fighter\fightingengine\Fighter\HitboxEditor\bin\Debug\sfmlnet-window-2.dll
+C:\Users\reeve_000\Desktop\Projects\Fighter\fightingengine\Fighter\HitboxEditor\obj\Debug\HitboxEditor.csprojResolveAssemblyReference.cache
+C:\Users\reeve_000\Desktop\Projects\Fighter\fightingengine\Fighter\HitboxEditor\obj\Debug\HitboxEditor.exe
+C:\Users\reeve_000\Desktop\Projects\Fighter\fightingengine\Fighter\HitboxEditor\obj\Debug\HitboxEditor.pdb
